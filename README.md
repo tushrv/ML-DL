@@ -12,7 +12,7 @@ The main goal of this project is to deepen my understanding of neural networks b
 
 ## Contents
 
-The repository includes Jupyter notebooks covering the following topics:
+The repository includes Jupyter notebook covering the following topics:
 
 1. Basic Neuron
 2. Neural Network Architecture
@@ -21,8 +21,6 @@ The repository includes Jupyter notebooks covering the following topics:
 5. Backpropagation
 6. Loss Functions
 7. Optimization Techniques
-
-Each notebook contains detailed explanations, code implementations, and visualizations to aid in learning and future reference.
 
 ## Technologies Used
 
@@ -39,12 +37,8 @@ Each notebook contains detailed explanations, code implementations, and visualiz
 
 ## Note to Self
 
-This repository is a work in progress and serves as my personal notes. Feel free to add, modify, or expand upon any section as my understanding grows or as I discover new concepts related to neural networks.
+This repository is a work in progress and serves as my personal notes. Feel free to add, modify, or expand upon any section.
 
 ## Contributions
 
 While this is primarily a personal learning project, suggestions or corrections are welcome. Feel free to open an issue or submit a pull request if you notice any errors or have ideas for improvements.
-
-## License
-
-This project is open-source and available under the MIT License.
